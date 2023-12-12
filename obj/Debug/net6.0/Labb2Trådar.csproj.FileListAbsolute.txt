@@ -1,0 +1,28 @@
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.exe
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.deps.json
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.runtimeconfig.json
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.dll
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.pdb
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.AssemblyInfoInputs.cache
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.AssemblyInfo.cs
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.csproj.CoreCompileInputs.cache
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.dll
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\refint\Labb2Trådar.dll
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.pdb
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.genruntimeconfig.cache
+C:\Users\Alex Lundquist\source\repos\Advent  of code\Labb2Trådar\obj\Debug\net6.0\ref\Labb2Trådar.dll
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.exe
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.deps.json
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.runtimeconfig.json
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.dll
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\bin\Debug\net6.0\Labb2Trådar.pdb
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.AssemblyInfoInputs.cache
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.AssemblyInfo.cs
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.csproj.CoreCompileInputs.cache
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.dll
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\refint\Labb2Trådar.dll
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.pdb
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\Labb2Trådar.genruntimeconfig.cache
+C:\Users\Alex Lundquist\source\repos\Labb2Trådar\obj\Debug\net6.0\ref\Labb2Trådar.dll
